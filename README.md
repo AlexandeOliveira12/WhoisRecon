@@ -1,4 +1,4 @@
-# 🌐 Whois Recon Script em Bash
+# 🌐 Whois Recon em Bash
 
 Este projeto consiste em um **script Bash simples e eficiente** para **reconhecimento de informações de domínio/IP**, utilizando a ferramenta **WHOIS**.
 
